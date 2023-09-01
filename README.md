@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @bjh-developer
-- 👀 I’m interested in being a software engineer
-- 🌱 I’m currently learning Python
+- 👋 I'm Joon Hao! Currently, I am a Computing Talent Programme student at Hwa Chong Institution (College).
+- My Github showcases a range of projects (from big to small) that I've done throughout my coding journey.
 
 <!---
 bjh-developer/bjh-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
