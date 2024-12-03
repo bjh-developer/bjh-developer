@@ -1,4 +1,4 @@
-- 👋 I'm Joon Hao! Currently, I am a Computing Talent Programme student at Hwa Chong Institution (College).
+- 👋 I'm Joon Hao! Currently, I am a Computing Talent Programme graduate from Hwa Chong Institution (College).
 - My Github showcases a range of projects (from big to small) that I've done throughout my coding journey.
 
 <!---
