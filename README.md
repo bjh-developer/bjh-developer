@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joon Hao</h1>
 <h3 align="center">An incoming NUS Computer Science student. Computing Talent Programme graduate from Hwa Chong Institution (College).</h3>
 
-- 🔭 I’m currently working on [Vibelines](vibelines.vercel.app)
+- 🔭 I’m currently working on...nothing. Exploring passion projects!
 
 - 📝 I regularly write articles on [https://medium.com/@joonhaobek](https://medium.com/@joonhaobek)
 
