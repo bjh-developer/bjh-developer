@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joon Hao</h1>
 <h3 align="center">An incoming NUS Computer Science student. Computing Talent Programme graduate from Hwa Chong Institution (College).</h3>
 
-- 🔭 I’m currently volunteering as a Software Engineer for SG Social Support.
+- 🔭 I’m currently volunteering as a Software Engineer for SG Social Support. Additionally, I'm building ReStrip!
 
 - 📝 I regularly write articles on [https://medium.com/@joonhaobek](https://medium.com/@joonhaobek)
 
